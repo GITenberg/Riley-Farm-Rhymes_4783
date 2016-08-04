@@ -1,0 +1,35 @@
+_repo: Riley-Farm-Rhymes_4783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riley, James Whitcomb
+    aliases:
+    - Johnson, Benj. F. of Boone
+    - Johnson, B. F.
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '356'
+    url: http://www.gutenberg.org/2009/agents/356
+    wikipedia: http://en.wikipedia.org/wiki/James_Whitcomb_Riley
+description: COVER; TITLE; COPYRIGHT; CONTENTS; ORCHARD LANDS OF LONG AGO, THE; WHEN
+  THE FROST IS ON THE PUNKIN; WHEN THE GREEN GITS BACK IN THE TREES; WET-WEATHER TALK;
+  BROOK-SONG, THE; THOUGHTS FER THE DISCURAGED FARMER; ""MYLO JONES'S WIFE""; HOW
+  JOHN QUIT THE FARM; CANARY AT THE FARM, A; WHERE THE CHILDREN USED TO PLAY; GRIGGSBY'S
+  STATION; KNEE-DEEP IN JUNE; SEPTEMBER DARK; CLOVER, THE; OLD OCTOBER; OLD-FASHIONED
+  ROSES; COUNTRY PATHWAY, A; WORTERMELON TIME; UP AND DOWN OLD BRANDYWINE; WHEN EARLY
+  MARCH SEEMS MIDDLE MAY; TALE OF THE AIRLY DAYS, A; OLD MAN'S NURSERY RHYME; JUNE;
+  TREE-TOAD, THE.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Poetry'
+- GITenberg
+title: Riley Farm-Rhymes
+url: http://www.gutenberg.org/ebooks/4783
