@@ -1,5 +1,8 @@
 _repo: Riley-Farm-Rhymes_4783
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Riley, James Whitcomb
@@ -19,6 +22,8 @@ description: COVER; TITLE; COPYRIGHT; CONTENTS; ORCHARD LANDS OF LONG AGO, THE; 
   ROSES; COUNTRY PATHWAY, A; WORTERMELON TIME; UP AND DOWN OLD BRANDYWINE; WHEN EARLY
   MARCH SEEMS MIDDLE MAY; TALE OF THE AIRLY DAYS, A; OLD MAN'S NURSERY RHYME; JUNE;
   TREE-TOAD, THE.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4783#Riley-Farm-Rhymes
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
